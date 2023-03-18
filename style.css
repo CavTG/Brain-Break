@@ -1,0 +1,14 @@
+body {
+    font-family: 'SF Mono', SFMono-Regular, ui-monospace, 'DejaVu Sans Mono', Menlo, Consolas, monospace;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    height: 50px;
+    background-image: url(/Brain-Break/graphics/navbar.gif);
+}
+
+.itemNavlist {
+    text-decoration: none;
+}
