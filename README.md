@@ -5,3 +5,5 @@ Projects getting added
 RaspberryPi NAS
 PiVPN
 Home Assistant (automation IOT)
+OpenMediaVault
+Own search engine
